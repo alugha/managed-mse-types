@@ -1,0 +1,21 @@
+{
+  "name": "@alugha/managed-mse-types",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "projects": [
+    "https://github.com/w3c/media-source/issues/320",
+    "https://github.com/w3c/media-source/issues/322"
+  ],
+  "owners": [
+    {
+      "name": "Christian Praß",
+      "githubUsername": "cprass"
+    },
+    {
+      "name": "Niklas Korz",
+      "githubUsername": "niklaskorz"
+    }
+  ]
+}
